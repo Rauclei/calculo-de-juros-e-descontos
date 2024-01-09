@@ -9,9 +9,13 @@ O programa solicita ao usuário que forneça o valor (por exemplo, um preço) e 
 Cálculos:
 
 Com base nos valores fornecidos pelo usuário, o programa realiza os seguintes cálculos:
+
 valor_porcentagem = (porcentagem * valor) / 100: Calcula a porcentagem do valor.
+
 valor_desconto = valor - valor_porcentagem: Calcula o valor com desconto.
+
 valor_juros = valor + valor_porcentagem: Calcula o valor com juros.
+
 Saída de Resultados:
 
 Os resultados são exibidos no console, mostrando o valor original, o valor com desconto e o valor com juros.
