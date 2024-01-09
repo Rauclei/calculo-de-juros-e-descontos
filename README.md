@@ -1,4 +1,5 @@
 # Calculadora Simples de Juros e Descontos em Python
+
 O projeto consiste em um programa simples de cálculo de juros e descontos, implementado em Python. Ele interage com o usuário, solicitando a entrada do valor e da porcentagem e, em seguida, realiza os cálculos necessários para determinar o valor com desconto e o valor com juros.
 
 A seguir, uma breve descrição dos principais elementos do projeto:
