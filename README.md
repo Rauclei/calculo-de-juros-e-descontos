@@ -19,7 +19,7 @@ valor_juros = valor + valor_porcentagem: Calcula o valor com juros.
 
 <b>Saída de Resultados:<b>
 
-Os resultados são exibidos no console, mostrando o valor original, o valor com desconto e o valor com juros.
+Os resultados são exibidos no terminal, mostrando o valor original, o valor com desconto e o valor com juros.
 Integração com o Visual Studio Code:
 
 O código é escrito em um arquivo Python que pode ser criado e editado no Visual Studio Code. A execução do programa é realizada no terminal do VSCode.
