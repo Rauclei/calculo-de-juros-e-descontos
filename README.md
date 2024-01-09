@@ -8,7 +8,7 @@ A seguir, uma breve descrição dos principais elementos do projeto:
 
 ° O programa solicita ao usuário que forneça o valor (por exemplo, um preço) e a porcentagem que será usada para calcular o desconto ou juros.
 
-Cálculos:
+<strong> Cálculos:</strong>
 
 ° Com base nos valores fornecidos pelo usuário, o programa realiza os seguintes cálculos:
 
@@ -18,15 +18,15 @@ Cálculos:
 
 ° valor_juros = valor + valor_porcentagem: Calcula o valor com juros.
 
-Saída de Resultados:
+<strong> Saída de Resultados:</strong> 
 
 ° Os resultados são exibidos no terminal, mostrando o valor original, o valor com desconto e o valor com juros.
 
-Integração com o Visual Studio Code:
+<strong>Integração com o Visual Studio Code:</strong>
 
 ° O código é escrito em um arquivo Python que pode ser criado e editado no Visual Studio Code. A execução do programa é realizada no terminal do VSCode.
 
-Facilidade de Uso:
+<strong>Facilidade de Uso:</strong>
 
 ° O projeto foi concebido para ser simples e fácil de entender. A interação com o usuário é direta, e os resultados são apresentados de maneira clara.
 
