@@ -17,7 +17,7 @@ valor_desconto = valor - valor_porcentagem: Calcula o valor com desconto.
 
 valor_juros = valor + valor_porcentagem: Calcula o valor com juros.
 
-Saída de Resultados:
+<b>Saída de Resultados:<b>
 
 Os resultados são exibidos no console, mostrando o valor original, o valor com desconto e o valor com juros.
 Integração com o Visual Studio Code:
