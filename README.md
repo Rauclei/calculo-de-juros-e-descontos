@@ -4,7 +4,7 @@ O projeto consiste em um programa simples de cálculo de juros e descontos, impl
 
 A seguir, uma breve descrição dos principais elementos do projeto:
 
-Entrada do Usuário:
+<strong> Entrada do Usuário: </strong>
 
 ° O programa solicita ao usuário que forneça o valor (por exemplo, um preço) e a porcentagem que será usada para calcular o desconto ou juros.
 
